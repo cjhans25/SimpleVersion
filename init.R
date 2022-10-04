@@ -1,8 +1,3 @@
----
-title: "Heroku buildpack:R"
-output: html_document
-date: '2022-09-28'
----
 
 # init.R
 #
